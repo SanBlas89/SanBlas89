@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there! 👋 I'm Miguel Alejandro
 
-<!--
-**SanBlas89/SanBlas89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer focused on web development and Data. I enjoy building projects that combine creativity with technology.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Frameworks:** Django, Flask
+- **Tools:** Git, GitHub
+- **Currently Learning:** Advanced Python, Web Development, AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured Projects
+- **Mcast_python** - Python-based multicast communication project
+- **Platzi_django** - Django web application development
+- **pagina_proyecto_final** - Final project for Introduction to AI course
+
+## 🌱 What I'm Learning
+- Advanced Django development
+- Full-stack web development
+- Machine Learning and AI applications
+- Modern frontend technologies
+
+## 📫 How to Reach Me
+Feel free to connect with me through GitHub!
+
+## ⚡ Fun Fact
+I love combining technical skills with creative projects!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanBlas89&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanBlas89&layout=compact&theme=radical)
